@@ -1,0 +1,45 @@
+body {
+    font-family:  'Arial Narrow', Arial;
+    text-align: center;
+    padding: 20px;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(valentines-bouquet-with-a-card-animate.svg);
+  }
+
+  
+  h2 {
+    color: green;
+  }
+  
+  form {
+    margin: 20px auto;
+    max-width: 300px;
+  }
+  
+  input[type="text"] {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-family: 'Arial Narrow Bold';
+  }
+  
+  button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #result {
+    margin: 20px auto;
+    max-width: 300px;
+  }
+  
